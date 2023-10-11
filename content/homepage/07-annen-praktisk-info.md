@@ -1,0 +1,12 @@
+---
+title: "Annen praktisk info"
+header_menu_title: "Annen praktisk info"
+navigation_menu_title: "Annet"
+weight: 7
+header_menu: true
+---
+
+* Transport
+* Overnatting
+* Bordkart
+* Kjøreplan

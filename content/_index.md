@@ -9,7 +9,8 @@ header_use_video: false
 #header_logo: "images/heart.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "<img src='images/sr-logo.png' width='50%' height='50%'>"
+header_headline: "<img src='images/sr-logo.png' width='80%'>"
 #header_headline: "Stine + Robert"
-header_subheadline: "📅 29. juni 2024 &nbsp; 🕒 15:15 &nbsp; 💒 Vår Frue kirke"
+#header_subheadline: "📅 29. juni 2024 &nbsp; 🕒 15:15 &nbsp; 💒 Vår Frue kirke"
+header_subheadline: "29. juni 2024"
 ---

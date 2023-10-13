@@ -8,5 +8,3 @@ header_menu: true
 
 * Transport
 * Overnatting
-* Bordkart
-* Kjøreplan

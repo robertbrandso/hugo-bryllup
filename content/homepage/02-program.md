@@ -5,7 +5,7 @@ weight: 2
 header_menu: true
 ---
 
-🕒 **15:15** &nbsp;&nbsp; 💒 Vielse i Vår Frue kirke (varighet: Ca. 30-40 minutter)
+🕒 **15:15** &nbsp;&nbsp; 💒 Vielse i Vår Frue kirke (ca. 30-40 min.)
 
 🕓 **16:00** &nbsp;&nbsp; 🚶 Avgang til selskapslokalet
 

@@ -5,16 +5,16 @@ weight: 2
 header_menu: true
 ---
 
-🕒 **15:15** &nbsp;&nbsp; 💒 Vielse i Vår Frue kirke
+🕒 **15:15** &nbsp;&nbsp; 💒 Vielse i Vår Frue kirke (varighet: Ca. 30-40 minutter)
 
-🕓 **15:50** &nbsp;&nbsp; 🚶 Avgang til selskapslokalet
+🕓 **16:00** &nbsp;&nbsp; 🚶 Avgang til selskapslokalet
 
-🕓 **16:00** &nbsp;&nbsp; 🍾 Velkomst i bakgården
+🕓 **16:15** &nbsp;&nbsp; 🍾 Velkomst i bakgården
 
-🕠 **16:30** &nbsp;&nbsp; 🍽️ Middagen blir servert
+🕔 **17:00** &nbsp;&nbsp; 🍽️ Middagen blir servert
 
-🕘 **21:00** &nbsp;&nbsp; 🍰 Kake og kaffe avec
+🕣 **20:30** &nbsp;&nbsp; 🍰 Kaker
 
-🕐 **01:00** &nbsp;&nbsp; 🌭 Nattmat
+🕧 **00:30** &nbsp;&nbsp; 🌭 Nattmat
 
-🕒 **03:00** &nbsp;&nbsp; 🥱 På tide å legge seg
+🕝 **02:30** &nbsp;&nbsp; 🥱 På tide å legge seg

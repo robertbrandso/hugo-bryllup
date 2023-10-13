@@ -4,4 +4,5 @@ weight: 5
 header_menu: true
 ---
 
-Vi ønsker oss:
+* Bidrag til bryllupsreise?
+* Gavekort på kunst?

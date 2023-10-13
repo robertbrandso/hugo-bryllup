@@ -7,7 +7,7 @@ header_menu: true
 
 🕒 **15:15** &nbsp;&nbsp; 💒 Vielse i Vår Frue kirke
 
-🕓 **15:50** &nbsp;&nbsp; 🚶 Avgang til Trondheim Befalsforenings bakgård
+🕓 **15:50** &nbsp;&nbsp; 🚶 Avgang til selskapslokalet
 
 🕓 **16:00** &nbsp;&nbsp; 🍾 Velkomst i bakgården
 

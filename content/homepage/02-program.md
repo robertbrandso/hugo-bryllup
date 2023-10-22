@@ -5,6 +5,8 @@ weight: 2
 header_menu: true
 ---
 
+Foreløpig plan og program for dagen - denne blir trolig justert når tiden nærmer seg.
+
 🕒 **15:15** &nbsp;&nbsp; 💒 Vielse i Vår Frue kirke (30-40 min.)
 
 🕓 **16:00** &nbsp;&nbsp; 🚶 Avgang til selskapslokalet

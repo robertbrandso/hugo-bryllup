@@ -14,7 +14,7 @@ theme = "hugo-scroll"
 title = "Stine og Roberts bryllup"
 
 # In order to add version information in the page's footer set to true.
-enableGitInfo = true
+enableGitInfo = false
 
 # Theme-specific variables `.Site.Params.myParamName`
 [params]

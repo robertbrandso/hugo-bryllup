@@ -1,6 +1,6 @@
 ---
 title: "Bordkart"
-weight: 7
+weight: 6
 header_menu: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Musikk"
-weight: 6
+weight: 5
 header_menu: true
 ---
 

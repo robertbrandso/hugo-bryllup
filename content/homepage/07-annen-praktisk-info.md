@@ -2,7 +2,7 @@
 title: "Annen praktisk info"
 header_menu_title: "Annen praktisk info"
 navigation_menu_title: "Annet"
-weight: 8
+weight: 7
 header_menu: true
 ---
 
@@ -15,5 +15,3 @@ Hvis noen kjører og behøver å parkere er de nærmeste parkeringshusene på [T
 
 #### Overnatting
 De fleste av gjestene våre bor i Trondheim. Vi regner derfor med at dere klarer å komme dere i seng selv.
-
-Hvis noen har behov for hotellrom anbefaler vi å booke det i god tid på forhånd. Ta kontakt hvis noen trenger hjelp til overnatting.

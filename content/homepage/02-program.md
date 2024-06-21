@@ -5,18 +5,18 @@ weight: 2
 header_menu: true
 ---
 
-Foreløpig plan og program for dagen - denne blir trolig justert når tiden nærmer seg.
+Plan og program for dagen:
 
-🕒 **15:15** &nbsp;&nbsp; 💒 Vielse i Vår Frue kirke (30-40 min.)
+🕒 **15:15** &nbsp;&nbsp; 💒 Vielse i Vår Frue kirke
 
 🕓 **16:00** &nbsp;&nbsp; 🚶 Avgang til selskapslokalet
 
 🕓 **16:15** &nbsp;&nbsp; 🍾 Velkomst i bakgården
 
-🕔 **17:00** &nbsp;&nbsp; 🍽️ Middagen blir servert
+🕔 **17:00** &nbsp;&nbsp; 🍽️ Vi setter oss til bords
 
-🕣 **20:30** &nbsp;&nbsp; 🍰 Kaker
+🕘 **21:00** &nbsp;&nbsp; 🍰 Kaker
 
-🕧 **00:30** &nbsp;&nbsp; 🌭 Nattmat
+🕐 **01:00** &nbsp;&nbsp; 🌭 Nattmat
 
-🕝 **02:30** &nbsp;&nbsp; 🥱 På tide å legge seg
+🕒 **03:00** &nbsp;&nbsp; 🥱 På tide å legge seg

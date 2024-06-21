@@ -2,7 +2,7 @@
 title: "Gaveønsker"
 header_menu_title: "Gaveønsker"
 navigation_menu_title: "Gaveønsker"
-weight: 6
+weight: 7
 header_menu: true
 ---
 

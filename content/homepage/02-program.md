@@ -11,11 +11,11 @@ Plan og program for dagen:
 
 🕓 **16:00** &nbsp;&nbsp; 🚶 Avgang til selskapslokalet
 
-🕓 **16:15** &nbsp;&nbsp; 🍾 Velkomst i bakgården
+🕓 **16:15** &nbsp;&nbsp; 🍾 Velkomst
 
 🕔 **17:00** &nbsp;&nbsp; 🍽️ Vi setter oss til bords
 
-🕘 **21:00** &nbsp;&nbsp; 🍰 Kaker
+🕘 **21:30** &nbsp;&nbsp; 🍰 Kaker
 
 🕐 **01:00** &nbsp;&nbsp; 🌭 Nattmat
 

@@ -15,7 +15,7 @@ Plan og program for dagen:
 
 🕔 **17:00** &nbsp;&nbsp; 🍽️ Vi setter oss til bords
 
-🕘 **21:30** &nbsp;&nbsp; 🍰 Kaker
+🕤 **21:30** &nbsp;&nbsp; 🍰 Kaker
 
 🕐 **01:00** &nbsp;&nbsp; 🌭 Nattmat
 

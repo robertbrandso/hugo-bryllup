@@ -3,6 +3,7 @@ title: "Program for dagen"
 navigation_menu_title: "Program"
 weight: 2
 header_menu: true
+draft: true
 ---
 
 Plan og program for dagen:

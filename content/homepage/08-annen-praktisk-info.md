@@ -4,6 +4,7 @@ header_menu_title: "Annen praktisk info"
 navigation_menu_title: "Annet"
 weight: 8
 header_menu: true
+draft: true
 ---
 
 &nbsp;

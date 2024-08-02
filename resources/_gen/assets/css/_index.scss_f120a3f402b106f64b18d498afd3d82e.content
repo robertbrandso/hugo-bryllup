@@ -197,8 +197,8 @@ a.fn-item {
   padding-bottom: 4rem;
   padding-top: 4rem;
   height: 70%;
-  word-break: break-word;
-  hyphens: auto; }
+  word-break: normal;
+  hyphens: none; }
 
 /* ======= Single pages =========== */
 .post-template .post {

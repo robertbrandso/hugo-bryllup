@@ -2,6 +2,7 @@
 title: "Toastmaster"
 weight: 4
 header_menu: true
+draft: true
 ---
 
 Vår alles kjære **Jørgen Ugedal** er toastmaster for kvelden.

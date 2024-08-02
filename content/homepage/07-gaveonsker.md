@@ -4,6 +4,7 @@ header_menu_title: "Gaveønsker"
 navigation_menu_title: "Gaveønsker"
 weight: 7
 header_menu: true
+draft: true
 ---
 
 Det viktigste for oss er at dere kommer i bryllupet vårt. Vi har det meste vi trenger.
